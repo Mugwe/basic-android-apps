@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Events</string>
+    <string name="empty">No events!</string>
+</resources>

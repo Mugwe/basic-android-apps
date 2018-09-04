@@ -1,0 +1,4 @@
+#Tue Jul 03 13:11:55 EAT 2018
+base.0=D\:\\Education\\USIU\\PROJECTS\\Intent\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

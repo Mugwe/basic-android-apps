@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:3:1-44:16
+INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:3:1-44:16
+INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:3:1-44:16
+INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:3:1-44:16
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\72a3a454742c0690def67536cdf87c1c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\26296ed9cc296e84558ee40415c80883\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\34fddbceadfb1b2513836e45120d1d40\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3e1cd5551109361f2a233dbfda777abb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\6fd23b650266adb021ff8344afa47d87\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a76f427c30ffc0ca5d164c91c270143a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\98986716c4811a11b90e5e73dea38569\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\15a5dfacf94215dde53c884b624b5684\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ec6e079659a1933e84744eb2d6c8d207\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:3:1-44:16
+INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:3:1-44:16
+INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:3:1-44:16
+	package
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:5:1-36
+		INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:7:1-26
+		INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:4:5-63
+	android:versionCode
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:6:1-24
+		INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:9:1-11:37
+INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:9:1-11:37
+INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:9:1-11:37
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\72a3a454742c0690def67536cdf87c1c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\72a3a454742c0690def67536cdf87c1c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\26296ed9cc296e84558ee40415c80883\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\26296ed9cc296e84558ee40415c80883\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\34fddbceadfb1b2513836e45120d1d40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\34fddbceadfb1b2513836e45120d1d40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3e1cd5551109361f2a233dbfda777abb\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3e1cd5551109361f2a233dbfda777abb\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\6fd23b650266adb021ff8344afa47d87\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\6fd23b650266adb021ff8344afa47d87\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a76f427c30ffc0ca5d164c91c270143a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a76f427c30ffc0ca5d164c91c270143a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\98986716c4811a11b90e5e73dea38569\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\98986716c4811a11b90e5e73dea38569\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\15a5dfacf94215dde53c884b624b5684\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\15a5dfacf94215dde53c884b624b5684\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ec6e079659a1933e84744eb2d6c8d207\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ec6e079659a1933e84744eb2d6c8d207\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:9:1-11:37
+INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:9:1-11:37
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\72a3a454742c0690def67536cdf87c1c\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:11:5-34
+		INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:10:5-31
+		INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:13:1-43:15
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\72a3a454742c0690def67536cdf87c1c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\72a3a454742c0690def67536cdf87c1c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\26296ed9cc296e84558ee40415c80883\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\26296ed9cc296e84558ee40415c80883\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\34fddbceadfb1b2513836e45120d1d40\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\34fddbceadfb1b2513836e45120d1d40\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3e1cd5551109361f2a233dbfda777abb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3e1cd5551109361f2a233dbfda777abb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\6fd23b650266adb021ff8344afa47d87\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\6fd23b650266adb021ff8344afa47d87\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a76f427c30ffc0ca5d164c91c270143a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a76f427c30ffc0ca5d164c91c270143a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\98986716c4811a11b90e5e73dea38569\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\98986716c4811a11b90e5e73dea38569\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\15a5dfacf94215dde53c884b624b5684\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\15a5dfacf94215dde53c884b624b5684\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ec6e079659a1933e84744eb2d6c8d207\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ec6e079659a1933e84744eb2d6c8d207\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:16:5-37
+	android:icon
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:15:5-39
+	android:allowBackup
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:14:5-31
+	android:theme
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:17:5-36
+activity#com.example.tmugwe.intent.MainActivity
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:19:5-28:16
+	android:label
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:21:9-41
+	android:name
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:20:9-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:25:23-70
+activity#com.example.tmugwe.intent.CustomActivity
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:30:5-41:12
+	android:label
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:32:5-39
+	android:name
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:31:9-64
+intent-filter#action:name:android.intent.action.VIEW+action:name:com.example.myapplication.LAUNCH+category:name:android.intent.category.DEFAULT+data:scheme:http
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:34:5-39:21
+action#android.intent.action.VIEW
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:35:9-61
+	android:name
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:35:17-58
+action#com.example.myapplication.LAUNCH
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:36:9-67
+	android:name
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:36:17-64
+category#android.intent.category.DEFAULT
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:37:9-68
+	android:name
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:37:19-65
+data
+ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:38:9-39
+	android:scheme
+		ADDED from D:\Education\USIU\PROJECTS\Intent\app\src\main\AndroidManifest.xml:38:15-36
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\72a3a454742c0690def67536cdf87c1c\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\26296ed9cc296e84558ee40415c80883\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\26296ed9cc296e84558ee40415c80883\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\34fddbceadfb1b2513836e45120d1d40\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\34fddbceadfb1b2513836e45120d1d40\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3e1cd5551109361f2a233dbfda777abb\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\3e1cd5551109361f2a233dbfda777abb\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\6fd23b650266adb021ff8344afa47d87\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\6fd23b650266adb021ff8344afa47d87\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a76f427c30ffc0ca5d164c91c270143a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a76f427c30ffc0ca5d164c91c270143a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\98986716c4811a11b90e5e73dea38569\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\98986716c4811a11b90e5e73dea38569\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\15a5dfacf94215dde53c884b624b5684\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\15a5dfacf94215dde53c884b624b5684\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ec6e079659a1933e84744eb2d6c8d207\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\ec6e079659a1933e84744eb2d6c8d207\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\72a3a454742c0690def67536cdf87c1c\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\MUGWE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\72a3a454742c0690def67536cdf87c1c\AndroidManifest.xml:26:9-47
